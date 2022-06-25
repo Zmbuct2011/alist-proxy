@@ -1,5 +1,5 @@
-const HOST = "YOUR_HOST";
-const TOKEN = "YOUR_TOKEN";
+const HOST = "https://alist.nn.ci";
+const TOKEN = "86a717b71c693e66dac3efd1d973ef5d";
 
 addEventListener("fetch", (event) => {
     const request = event.request;
